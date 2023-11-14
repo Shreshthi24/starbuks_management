@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="size" table="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <name>x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:02:43</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>size</sys_name>
+            <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+            <sys_update_name>sys_choice_x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new_size</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:02:43</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grande</label>
+            <language>en</language>
+            <name>x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:03:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40d58557971ef5106823f5c11153afdd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:03:19</sys_updated_on>
+            <value>grande</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tall</label>
+            <language>en</language>
+            <name>x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:02:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2a5c957971ef5106823f5c11153afcb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:02:51</sys_updated_on>
+            <value>tall</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Venti</label>
+            <language>en</language>
+            <name>x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6de5c957971ef5106823f5c11153afd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:03:49</sys_updated_on>
+            <value>venti</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

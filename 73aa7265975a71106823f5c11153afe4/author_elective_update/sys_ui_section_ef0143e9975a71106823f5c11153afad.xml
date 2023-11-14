@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Mobile" section_id="ef0143e9975a71106823f5c11153afad" sys_domain="global" table="x_1129234_starb_m_starbucks_drink" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>Mobile</caption>
+            <header>false</header>
+            <name>x_1129234_starb_m_starbucks_drink</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 10:32:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef0143e9975a71106823f5c11153afad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1129234_starb_m_starbucks_drink</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+            <sys_update_name>sys_ui_section_ef0143e9975a71106823f5c11153afad</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 10:32:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</application>
+        <file_path/>
+        <instance_id>c2d9444fdbc54d107527d7c8f49619cc</instance_id>
+        <instance_name>dev121859</instance_name>
+        <name>sys_ui_section_ef0143e9975a71106823f5c11153afad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Mobile" section_id="ef0143e9975a71106823f5c11153afad" sys_domain="global" table="x_1129234_starb_m_starbucks_drink" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>Mobile</caption><header>false</header><name>x_1129234_starb_m_starbucks_drink</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-04 10:32:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ef0143e9975a71106823f5c11153afad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1129234_starb_m_starbucks_drink</sys_name><sys_overrides/><sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package><sys_policy/><sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope><sys_update_name>sys_ui_section_ef0143e9975a71106823f5c11153afad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-04 10:32:10</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>715297856</payload_hash>
+        <record_name>Starbucks drink</record_name>
+        <reverted_from/>
+        <source>3faa7265975a71106823f5c11153afe5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-04 10:38:57</sys_created_on>
+        <sys_id>fa9243ad975a71106823f5c11153af9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b99ea16fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-04 10:38:57</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>ba9243ad075a7110e05a1ac152bdba9d</update_guid>
+        <update_guid_history>ba9243ad075a7110e05a1ac152bdba9d:715297856</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-04 10:38:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>466b7557ef1d4955b078c01653c69a71</sys_id>
+        <sys_metadata>ef0143e9975a71106823f5c11153afad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_parent display_value="Starbucks drink">8b0bb2a5975a71106823f5c11153af8d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_scope_delete display_value="">59445402b425491480e3057de7443a84</sys_scope_delete>
+        <sys_update_name>sys_ui_section_ef0143e9975a71106823f5c11153afad</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_ef0143e9975a71106823f5c11153afad">fa9243ad975a71106823f5c11153af9d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-04 10:38:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
