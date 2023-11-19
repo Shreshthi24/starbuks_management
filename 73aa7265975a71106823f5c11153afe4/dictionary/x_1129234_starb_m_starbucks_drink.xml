@@ -2,6 +2,15 @@
     <element db_object_id="8b0bb2a5975a71106823f5c11153af8d" label="Starbucks drink" max_length="40" name="x_1129234_starb_m_starbucks_drink" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Calories" max_length="40" name="calories" type="string"/>
         <element label="Carb" max_length="40" name="carb" type="integer"/>
+        <element choice="3" default="black" label="Drinks" max_length="40" name="drink_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Black" value="black"/>
+                <element inactive_on_update="false" label="Blended" value="blended"/>
+                <element inactive_on_update="false" label="Cold" value="cold"/>
+                <element inactive_on_update="false" label="Hot" value="hot"/>
+                <element inactive_on_update="false" label="Milkshake" value="milkshake"/>
+            </choice>
+        </element>
         <element label="Fat" max_length="40" name="fat" type="integer"/>
         <element label="Fiber" max_length="40" name="fiber" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Image" max_length="40" name="image" type="user_image"/>

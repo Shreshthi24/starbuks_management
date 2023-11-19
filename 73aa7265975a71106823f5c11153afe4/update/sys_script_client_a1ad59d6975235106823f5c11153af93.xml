@@ -16,51 +16,54 @@
          color: "blue",
          backgroundColor: "LightCyan"
       });*/
-  //  var namel = g_form.getControl("Name");
+    //  var namel = g_form.getControl("Name");
     //namel.style.backgroundColor = "LightCyan";
     //namel.style.color = "blue";
 
     var name = g_form.getControl('name');
     name.style.backgroundColor = "LightCyan";
     name.style.color = "blue";
-    //name.style.width = '250px';
+    name.style.fontWeight = 'bold';
+	name.style.fontSize="30 px";
 
     var image = g_form.getControl('image');
     image.style.backgroundColor = "LightCyan";
     image.style.color = "blue";
+    image.style.fontWeight = 'bold';
 
     var short_description = g_form.getControl('short_description');
     short_description.style.backgroundColor = "LightCyan";
     short_description.style.color = "blue";
+    short_description.style.fontWeight = 'bold';
 
     var carb = g_form.getControl('carb');
     carb.style.backgroundColor = "LightCyan";
     carb.style.color = "blue";
+    carb.style.fontWeight = 'bold';
 
     var fat = g_form.getControl('fat');
     fat.style.backgroundColor = "LightCyan";
     fat.style.color = "blue";
+    fat.style.fontWeight = 'bold';
 
     var fiber = g_form.getControl('fiber');
     fiber.style.backgroundColor = "LightCyan";
     fiber.style.color = "blue";
+    fiber.style.fontWeight = 'bold';
 
     var protien = g_form.getControl('protein');
     protien.style.backgroundColor = "LightCyan";
     protien.style.color = "blue";
+    protein.style.fontWeight = 'bold';
 
 
 
-
-     if (newValue === true) {
+    if (newValue === true) {
         control.style = "background-color:LightCyan";
         return;
     }
 
-    ////// LBAEL
-    var e = gel("label.x_1129234_starb_m_starbucks_drink.name");
 
-    e.style.backgroundColor = 'blue';
 
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -69,7 +72,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a1ad59d6975235106823f5c11153af93</sys_id>
-        <sys_mod_count>51</sys_mod_count>
+        <sys_mod_count>62</sys_mod_count>
         <sys_name>ForStarbuckDrinksColor</sys_name>
         <sys_overrides/>
         <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
@@ -77,7 +80,7 @@
         <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
         <sys_update_name>sys_script_client_a1ad59d6975235106823f5c11153af93</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-09 10:35:26</sys_updated_on>
+        <sys_updated_on>2023-11-16 17:46:36</sys_updated_on>
         <table>x_1129234_starb_m_starbucks_drink</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>

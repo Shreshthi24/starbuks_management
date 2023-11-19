@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Starbucks Management">5a1b7a65975a71106823f5c11153af5f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Order Now</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1129234_starb_m_starbucks</name>
+        <order>150</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>starbucks_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 11:57:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6247ab8976e7d106823f5c11153af22</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Order Now....</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_app_module_f6247ab8976e7d106823f5c11153af22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 11:58:22</sys_updated_on>
+        <timeline_page/>
+        <title>Order Now....</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</application>
+        <file_path/>
+        <instance_id>c2d9444fdbc54d107527d7c8f49619cc</instance_id>
+        <instance_name>dev121859</instance_name>
+        <name>sys_app_module_f6247ab8976e7d106823f5c11153af22</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Starbucks Management">5a1b7a65975a71106823f5c11153af5f</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Order Now</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1129234_starb_m_starbucks</name><order>150</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>starbucks_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-14 11:57:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f6247ab8976e7d106823f5c11153af22</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Order Now....</sys_name><sys_overrides/><sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package><sys_policy/><sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope><sys_update_name>sys_app_module_f6247ab8976e7d106823f5c11153af22</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-14 11:58:22</sys_updated_on><timeline_page/><title>Order Now....</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-428686336</payload_hash>
+        <record_name>Order Now....</record_name>
+        <reverted_from/>
+        <source>b47b4b65979a71106823f5c11153af26</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 11:58:22</sys_created_on>
+        <sys_id>b7a4f2f8976e7d106823f5c11153af94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bcdb266a20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 11:58:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bfa4f2f84a6e7d108af2b366e3f7e493</update_guid>
+        <update_guid_history>bfa4f2f84a6e7d108af2b366e3f7e493:-428686336,a684feb8e06e7d10079adba8905a9e8d:-563687808,1764b6b80a6e7d1025a6cba5cfd10afa:2059299205</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Order Now....">cbc436f8976e7d106823f5c11153af2b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-14 11:58:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0638058136f14e1a8bc1b45112141d04</sys_id>
+        <sys_metadata>f6247ab8976e7d106823f5c11153af22</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order Now....</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_scope_delete display_value="">59445402b425491480e3057de7443a84</sys_scope_delete>
+        <sys_update_name>sys_app_module_f6247ab8976e7d106823f5c11153af22</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f6247ab8976e7d106823f5c11153af22">b7a4f2f8976e7d106823f5c11153af94</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-14 11:58:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

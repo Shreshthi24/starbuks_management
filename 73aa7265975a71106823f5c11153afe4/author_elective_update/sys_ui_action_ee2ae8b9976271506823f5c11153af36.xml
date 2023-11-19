@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="DELETE">
+        <action_name/>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition>current.drink_name=="Blue Drink"</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style>unstyled</form_style>
+        <format_for_configurable_workspace>false</format_for_configurable_workspace>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <messages/>
+        <name>Drink</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[current.drink_name="Pink Drink";
+current.update();]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 04:28:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ee2ae8b9976271506823f5c11153af36</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>Drink</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_ui_action_ee2ae8b9976271506823f5c11153af36</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 05:06:49</sys_updated_on>
+        <table>x_1129234_starb_m_starbucks_drink</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</application>
+        <file_path/>
+        <instance_id>c2d9444fdbc54d107527d7c8f49619cc</instance_id>
+        <instance_name>dev121859</instance_name>
+        <name>sys_ui_action_ee2ae8b9976271506823f5c11153af36</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name/&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition&gt;current.drink_name=="Blue Drink"&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style&gt;unstyled&lt;/form_style&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint/&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;Drink&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[current.drink_name="Pink Drink";
+current.update();]]&gt;&lt;/script&gt;&lt;show_insert&gt;true&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-17 04:28:15&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;ee2ae8b9976271506823f5c11153af36&lt;/sys_id&gt;&lt;sys_mod_count&gt;20&lt;/sys_mod_count&gt;&lt;sys_name&gt;Drink&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Starbucks Management" source="x_1129234_starb_m"&gt;73aa7265975a71106823f5c11153afe4&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Starbucks Management"&gt;73aa7265975a71106823f5c11153afe4&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_ee2ae8b9976271506823f5c11153af36&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-17 05:06:49&lt;/sys_updated_on&gt;&lt;table&gt;x_1129234_starb_m_starbucks_drink&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1838795115</payload_hash>
+        <record_name>Drink</record_name>
+        <reverted_from/>
+        <source>b47b4b65979a71106823f5c11153af26</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 05:06:49</sys_created_on>
+        <sys_id>6843b4b997a271506823f5c11153af13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bdbacb0e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 05:06:49</sys_updated_on>
+        <type>UI Action</type>
+        <update_guid>6043b4b913a271502f26736605a0ab13</update_guid>
+        <update_guid_history>6043b4b913a271502f26736605a0ab13:-1838795115,4b2374b9c3a271503c89dddd3e229f12:297182741,a103f0b985a2715028c0c4c0109f3109:-1972609898,90f2fc794ea2715076ea2a46fba55031:297182741,52b2787987a2715039bddddfc9c4042a:1291479775,10a23c79b0a271507c69de049c667580:-974496277,5e82b87944a271500e6f45d1604ff038:78022475,a48270b533a2715031dbfdd4e66b502a:-1077195073,6e42747948a2715010bf74d5a8297966:78022475,242fac758aa27150a82efadd4f571856:-1187539072,84ee247518a27150110a12f5fd36ec9a:-773847855,8bece0b185a271508da32b86d42770a5:-1647155614,9dfb68b1b2a271506e9b62ceb20b6838:1129623627,46db68b1f0a271506f0d305e80afc106:2096596200,40db68b181a27150ef36da1dd32ffdc1:-1319954494,e1bba0b13aa271507f632fff44a20a94:-136681451,189bec7104a27150fa1636bef87f775e:-718172840,566ba0b1eca2715057d31a95e04263a5:1467821400,015be47116a271504244dceb9affce94:-2079081864,7faaa07186a27150a81cb37bbc33ddab:-1651268298,536ae8b9fb627150ebf3824db9553f74:903330016</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 05:07:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action">sys_ui_action</sys_db_object>
+        <sys_id>900e6d9530f648d0b54f1be20399d024</sys_id>
+        <sys_metadata>ee2ae8b9976271506823f5c11153af36</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Drink</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_parent display_value="Starbucks drink">8b0bb2a5975a71106823f5c11153af8d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_scope_delete display_value="">59445402b425491480e3057de7443a84</sys_scope_delete>
+        <sys_update_name>sys_ui_action_ee2ae8b9976271506823f5c11153af36</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_ee2ae8b9976271506823f5c11153af36">6843b4b997a271506823f5c11153af13</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 05:07:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

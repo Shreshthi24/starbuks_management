@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="drink_name" table="x_1129234_starb_m_starbucks_drink" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>drink_name</element>
+            <name>x_1129234_starb_m_starbucks_drink</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 04:43:51</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>drink_name</sys_name>
+            <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+            <sys_update_name>sys_choice_x_1129234_starb_m_starbucks_drink_drink_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 04:43:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Black</label>
+            <language>en</language>
+            <name>x_1129234_starb_m_starbucks_drink</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 04:44:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c0ee0b197a271506823f5c11153affe</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 05:17:48</sys_updated_on>
+            <value>black</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blended</label>
+            <language>en</language>
+            <name>x_1129234_starb_m_starbucks_drink</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 05:17:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc75303d97a271506823f5c11153af39</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 05:17:55</sys_updated_on>
+            <value>blended</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cold</label>
+            <language>en</language>
+            <name>x_1129234_starb_m_starbucks_drink</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 04:44:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d1ee0b197a271506823f5c11153afff</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 05:17:26</sys_updated_on>
+            <value>cold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hot</label>
+            <language>en</language>
+            <name>x_1129234_starb_m_starbucks_drink</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 04:43:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21ede0b197a271506823f5c11153affe</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 05:17:33</sys_updated_on>
+            <value>hot</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Milkshake</label>
+            <language>en</language>
+            <name>x_1129234_starb_m_starbucks_drink</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-17 04:44:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>960eec3597a271506823f5c11153af1c</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-17 05:17:42</sys_updated_on>
+            <value>milkshake</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
