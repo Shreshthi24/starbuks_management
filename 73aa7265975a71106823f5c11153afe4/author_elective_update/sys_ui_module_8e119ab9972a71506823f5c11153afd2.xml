@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Starbucks Management">eea347ed975a71106823f5c11153af33</application>
+        <filter/>
+        <name>Cases</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1129234_starb_m.starbucks_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 11:56:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8e119ab9972a71506823f5c11153afd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cases</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_ui_module_8e119ab9972a71506823f5c11153afd2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 11:56:47</sys_updated_on>
+        <table>x_1129234_starb_m_case</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</application>
+        <file_path/>
+        <instance_id>c2d9444fdbc54d107527d7c8f49619cc</instance_id>
+        <instance_name>dev121859</instance_name>
+        <name>sys_ui_module_8e119ab9972a71506823f5c11153afd2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Starbucks Management">eea347ed975a71106823f5c11153af33</application><filter/><name>Cases</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1129234_starb_m.starbucks_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-17 11:56:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8e119ab9972a71506823f5c11153afd2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cases</sys_name><sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package><sys_policy/><sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope><sys_update_name>sys_ui_module_8e119ab9972a71506823f5c11153afd2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-17 11:56:47</sys_updated_on><table>x_1129234_starb_m_case</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1708526163</payload_hash>
+        <record_name>Cases</record_name>
+        <reverted_from/>
+        <source>b47b4b65979a71106823f5c11153af26</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-17 11:56:47</sys_created_on>
+        <sys_id>c6119ab9972a71506823f5c11153afd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bdd2407f50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-17 11:56:47</sys_updated_on>
+        <type>Module</type>
+        <update_guid>02119ab94c2a71506f58088b1f561dd5</update_guid>
+        <update_guid_history>02119ab94c2a71506f58088b1f561dd5:-1708526163</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 04:11:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>17cc4b5766af4438885cfb0ab44faad9</sys_id>
+        <sys_metadata>8e119ab9972a71506823f5c11153afd2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cases</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_scope_delete display_value="">59445402b425491480e3057de7443a84</sys_scope_delete>
+        <sys_update_name>sys_ui_module_8e119ab9972a71506823f5c11153afd2</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_8e119ab9972a71506823f5c11153afd2">c6119ab9972a71506823f5c11153afd5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 04:11:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

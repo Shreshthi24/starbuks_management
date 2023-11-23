@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b4a14674c7220010393d265c95c2603b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>User Experience Analytics</name>
+        <order>100</order>
+        <roles>analytics_admin,analytics_viewer,mobile_analytics_viewer,web_analytics_viewer,portal_analytics_admin,portal_analytics_viewer</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-22 10:57:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>b4a14674c7220010393d265c95c2603b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>User Experience Analytics</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="User Experience Analytics" source="com.glide.appsee">06bf94bad423211095d7c105f1bf43bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_app_application_b4a14674c7220010393d265c95c2603b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-03 08:21:53</sys_updated_on>
+        <title>User Experience Analytics</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-20 05:59:35</sys_created_on>
+        <sys_id>7e1c1cf297ae35506823f5c11153afe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Experience Analytics</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_metadata_link_7e1c1cf297ae35506823f5c11153afe8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-20 05:59:35</sys_updated_on>
+        <tablename>sys_app_application</tablename>
+    </sys_metadata_link>
+</record_update>

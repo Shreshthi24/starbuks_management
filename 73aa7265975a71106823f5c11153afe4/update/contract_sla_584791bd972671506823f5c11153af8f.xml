@@ -11,7 +11,7 @@
         <duration_type/>
         <enable_logging>false</enable_logging>
         <flow display_value="Default SLA flow">828f267973333300e289235f04f6a7a3</flow>
-        <name>Res</name>
+        <name>Starbuck Response</name>
         <pause_condition table="x_1129234_starb_m_starbucks">state=-5^EQ<item display_value="Pending" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </pause_condition>
@@ -39,16 +39,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>584791bd972671506823f5c11153af8f</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Res</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Starbuck Response</sys_name>
         <sys_overrides/>
         <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
         <sys_update_name>contract_sla_584791bd972671506823f5c11153af8f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-17 08:33:34</sys_updated_on>
-        <target>resolution</target>
+        <sys_updated_on>2023-11-20 10:36:27</sys_updated_on>
+        <target>response</target>
         <timezone/>
         <timezone_source>task.caller_id.time_zone</timezone_source>
         <type>SLA</type>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="6f7383ed975a71106823f5c11153af8a" extends="task" label="Starbucks" max_length="40" name="x_1129234_starb_m_starbucks" type="collection">
         <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Order for" max_length="32" name="order_for" reference="sys_user" reference_qual="roles=starbucks_user^EQ" reference_qual_condition="roles=starbucks_user^EQ" type="reference" use_dynamic_default="true"/>
-        <element attributes="edge_encryption_enabled=true" label="Test1" max_length="40" name="u_test_1" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Test2" max_length="40" name="u_test_2" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="test3" max_length="40" name="u_test_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="test2" max_length="40" name="u_string_2" type="string"/>
     </element>
 </database>

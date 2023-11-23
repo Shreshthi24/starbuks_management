@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c89085185312301071b9ddeeff7b12c9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>A central workspace for CMDB</description>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>550</order>
+        <roles>sn_cmdb_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-26 19:14:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c89085185312301071b9ddeeff7b12c9</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>CMDB Workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CMDB Workspace" source="sn_cmdb_ws">c8ab76825371201032b7ddeeff7b1280</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB Workspace">c8ab76825371201032b7ddeeff7b1280</sys_scope>
+        <sys_update_name>sys_app_application_c89085185312301071b9ddeeff7b12c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-10 22:26:01</sys_updated_on>
+        <title>CMDB Workspace</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-20 05:59:36</sys_created_on>
+        <sys_id>7a1c5cf297ae35506823f5c11153af09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CMDB Workspace</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_metadata_link_7a1c5cf297ae35506823f5c11153af09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-20 05:59:36</sys_updated_on>
+        <tablename>sys_app_application</tablename>
+    </sys_metadata_link>
+</record_update>

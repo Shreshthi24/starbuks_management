@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>78d4c46deb60011090fa99602a522887</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>maint</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 08:26:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>78d4c46deb60011090fa99602a522887</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Admin Experience Framework</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope>
+        <sys_update_name>sys_app_application_78d4c46deb60011090fa99602a522887</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 20:17:33</sys_updated_on>
+        <title>Admin Experience Framework</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-20 05:59:34</sys_created_on>
+        <sys_id>1a1c1cf297ae35506823f5c11153af7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Admin Experience Framework</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_metadata_link_1a1c1cf297ae35506823f5c11153af7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-20 05:59:34</sys_updated_on>
+        <tablename>sys_app_application</tablename>
+    </sys_metadata_link>
+</record_update>

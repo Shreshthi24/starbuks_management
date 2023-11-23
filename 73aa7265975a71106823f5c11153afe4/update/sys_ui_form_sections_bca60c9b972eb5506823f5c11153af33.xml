@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="bca60c9b972eb5506823f5c11153af33" sys_domain="global" table="x_1129234_starb_m_starbucks" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-21 17:42:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4da60c9b972eb5506823f5c11153af36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1129234_starb_m_starbucks" name="x_1129234_starb_m_starbucks" sys_domain="global" view="Default view">bca60c9b972eb5506823f5c11153af33</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_starbucks" sys_domain="global" view="Default view">aa558361979a71106823f5c11153af6b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-21 17:42:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1129234_starb_m_starbucks</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-21 17:42:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bca60c9b972eb5506823f5c11153af33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1129234_starb_m_starbucks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_bca60c9b972eb5506823f5c11153af33</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-21 17:42:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

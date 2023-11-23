@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>9b42d39bc7332300af4d43c6f097639a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint>Configure Key Management </hint>
+        <name/>
+        <order>100</order>
+        <roles>sn_kmf.cryptographic_manager,sn_kmf.cryptographic_auditor</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 22:14:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b42d39bc7332300af4d43c6f097639a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Key Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ServiceNow Key Management Framework" source="sn_kmf">c515f25b53332300cd1eddeeff7b126e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Key Management Framework">c515f25b53332300cd1eddeeff7b126e</sys_scope>
+        <sys_update_name>sys_app_application_9b42d39bc7332300af4d43c6f097639a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 23:43:03</sys_updated_on>
+        <title>Key Management</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-20 05:59:35</sys_created_on>
+        <sys_id>a61c1cf297ae35506823f5c11153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Key Management</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_metadata_link_a61c1cf297ae35506823f5c11153afb2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-20 05:59:35</sys_updated_on>
+        <tablename>sys_app_application</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>New Update</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_1129234_starb_m_starbucks_data_new_update</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 05:17:40</sys_created_on>
+        <sys_id>ee85665397a6f5506823f5c11153afd1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New Update</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_transform_map_ee85665397a6f5506823f5c11153afd1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 05:18:28</sys_updated_on>
+        <target_table>x_1129234_starb_m_starbucks_drink</target_table>
+    </sys_transform_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</application>
+        <file_path/>
+        <instance_id>c2d9444fdbc54d107527d7c8f49619cc</instance_id>
+        <instance_name>dev121859</instance_name>
+        <name>sys_transform_map_ee85665397a6f5506823f5c11153afd1</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;false&lt;/copy_empty_fields&gt;&lt;create_new_record_on_empty_coalesce_fields&gt;false&lt;/create_new_record_on_empty_coalesce_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;New Update&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;run_business_rules&gt;true&lt;/run_business_rules&gt;&lt;run_script&gt;false&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]&gt;&lt;/script&gt;&lt;source_table&gt;x_1129234_starb_m_starbucks_data_new_update&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-22 05:17:40&lt;/sys_created_on&gt;&lt;sys_id&gt;ee85665397a6f5506823f5c11153afd1&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;New Update&lt;/sys_name&gt;&lt;sys_package display_value="Starbucks Management" source="x_1129234_starb_m"&gt;73aa7265975a71106823f5c11153afe4&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Starbucks Management"&gt;73aa7265975a71106823f5c11153afe4&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_ee85665397a6f5506823f5c11153afd1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-22 05:18:28&lt;/sys_updated_on&gt;&lt;target_table&gt;x_1129234_starb_m_starbucks_drink&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1084654895</payload_hash>
+        <record_name>New Update</record_name>
+        <reverted_from/>
+        <source>b47b4b65979a71106823f5c11153af26</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 05:18:28</sys_created_on>
+        <sys_id>b3d5665397a6f5506823f5c11153af7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf57725d90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 05:18:28</sys_updated_on>
+        <type>Table Transform Map</type>
+        <update_guid>7bd5665394a6f5509b25c62c4b78887b</update_guid>
+        <update_guid_history>7bd5665394a6f5509b25c62c4b78887b:1084654895,ccb52a132ca6f550ac0add430f13965d:773244968</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 05:21:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_map">sys_transform_map</sys_db_object>
+        <sys_id>0a0e7e143b9e4cc6b8c350c0b9913e04</sys_id>
+        <sys_metadata>ee85665397a6f5506823f5c11153afd1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Update</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_scope_delete display_value="">59445402b425491480e3057de7443a84</sys_scope_delete>
+        <sys_update_name>sys_transform_map_ee85665397a6f5506823f5c11153afd1</sys_update_name>
+        <sys_update_version display_value="sys_transform_map_ee85665397a6f5506823f5c11153afd1">b3d5665397a6f5506823f5c11153af7c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 05:21:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

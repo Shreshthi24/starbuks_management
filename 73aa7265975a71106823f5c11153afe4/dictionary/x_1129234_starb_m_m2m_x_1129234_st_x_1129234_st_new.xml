@@ -11,7 +11,9 @@
         <element label="Starbucks drink.Carb" max_length="32" name="starbucks_drink_carb" reference="x_1129234_starb_m_starbucks_drink" type="reference"/>
         <element label="Starbucks drink.Fat" max_length="32" name="starbucks_drink_fat" reference="x_1129234_starb_m_starbucks_drink" type="reference"/>
         <element label="Starbucks drink.Fiber" max_length="32" name="starbucks_drink_fiber" reference="x_1129234_starb_m_starbucks_drink" type="reference"/>
+        <element label="Starbucks drink.Image" max_length="32" name="starbucks_drink_image" reference="x_1129234_starb_m_starbucks_drink" type="reference"/>
         <element label="Starbucks drink.Protein" max_length="32" name="starbucks_drink_protein" reference="x_1129234_starb_m_starbucks_drink" type="reference"/>
+        <element label="Starbucks drink.Short description" max_length="32" name="starbucks_drink_short_description" reference="x_1129234_starb_m_starbucks_drink" type="reference"/>
         <element attributes="encode_utf8=false" label="Starbucks" max_length="32" name="x_1129234_starb_m_starbucks" reference="x_1129234_starb_m_starbucks" type="reference"/>
         <element attributes="encode_utf8=false" label="Starbucks drinks" max_length="32" name="x_1129234_starb_m_starbucks_drink" reference="x_1129234_starb_m_starbucks_drink" type="reference"/>
         <index name="index">
@@ -27,9 +29,12 @@
             <element name="starbucks_drink_fiber"/>
         </index>
         <index name="index5">
-            <element name="starbucks_drink_protein"/>
+            <element name="starbucks_drink_image"/>
         </index>
         <index name="index6">
+            <element name="starbucks_drink_protein"/>
+        </index>
+        <index name="index7">
             <element name="x_1129234_starb_m_starbucks"/>
         </index>
     </element>

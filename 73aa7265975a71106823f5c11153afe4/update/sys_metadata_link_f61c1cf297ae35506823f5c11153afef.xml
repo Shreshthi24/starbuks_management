@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bd37cd04538630103913ddeeff7b1246</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>sn_gf.strategy_planner_read</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-13 14:48:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd37cd04538630103913ddeeff7b1246</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Strategy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Goal Framework" source="sn_gf">11879041532030103913ddeeff7b12d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Goal Framework">11879041532030103913ddeeff7b12d8</sys_scope>
+        <sys_update_name>sys_app_application_bd37cd04538630103913ddeeff7b1246</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 07:26:44</sys_updated_on>
+        <title>Strategy</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-20 05:59:35</sys_created_on>
+        <sys_id>f61c1cf297ae35506823f5c11153afef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Strategy</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_metadata_link_f61c1cf297ae35506823f5c11153afef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-20 05:59:35</sys_updated_on>
+        <tablename>sys_app_application</tablename>
+    </sys_metadata_link>
+</record_update>

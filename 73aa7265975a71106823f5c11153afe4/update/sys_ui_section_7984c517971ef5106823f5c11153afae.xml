@@ -4,13 +4,13 @@
             <element>starbucks_drink_image</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-09 13:20:43</sys_created_on>
-            <sys_id>5197d9d7975ef5106823f5c11153afe8</sys_id>
+            <sys_created_on>2023-11-23 04:51:34</sys_created_on>
+            <sys_id>e7492fe3976a39506823f5c11153af8b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" sys_domain="global" view="Default view">7984c517971ef5106823f5c11153afae</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-09 13:20:43</sys_updated_on>
+            <sys_updated_on>2023-11-23 04:51:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-09 13:20:43</sys_created_on>
-            <sys_id>5597d9d7975ef5106823f5c11153afe8</sys_id>
+            <sys_created_on>2023-11-23 04:51:34</sys_created_on>
+            <sys_id>ef492fe3976a39506823f5c11153af8b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" sys_domain="global" view="Default view">7984c517971ef5106823f5c11153afae</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-09 13:20:43</sys_updated_on>
+            <sys_updated_on>2023-11-23 04:51:34</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>starbucks_drink_calories</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-09 13:20:43</sys_created_on>
-            <sys_id>5997d9d7975ef5106823f5c11153afe8</sys_id>
+            <sys_created_on>2023-11-23 04:51:34</sys_created_on>
+            <sys_id>e3492fe3976a39506823f5c11153af8c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" sys_domain="global" view="Default view">7984c517971ef5106823f5c11153afae</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-09 13:20:43</sys_updated_on>
+            <sys_updated_on>2023-11-23 04:51:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>starbucks_drink_carb</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-09 13:20:43</sys_created_on>
-            <sys_id>5d97d9d7975ef5106823f5c11153afe8</sys_id>
+            <sys_created_on>2023-11-23 04:51:34</sys_created_on>
+            <sys_id>e7492fe3976a39506823f5c11153af8c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" sys_domain="global" view="Default view">7984c517971ef5106823f5c11153afae</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-09 13:20:43</sys_updated_on>
+            <sys_updated_on>2023-11-23 04:51:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>starbucks_drink_fat</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-09 13:20:43</sys_created_on>
-            <sys_id>5197d9d7975ef5106823f5c11153afe9</sys_id>
+            <sys_created_on>2023-11-23 04:51:34</sys_created_on>
+            <sys_id>eb492fe3976a39506823f5c11153af8c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" sys_domain="global" view="Default view">7984c517971ef5106823f5c11153afae</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-09 13:20:43</sys_updated_on>
+            <sys_updated_on>2023-11-23 04:51:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>starbucks_drink_fiber</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-09 13:20:43</sys_created_on>
-            <sys_id>5597d9d7975ef5106823f5c11153afe9</sys_id>
+            <sys_created_on>2023-11-23 04:51:34</sys_created_on>
+            <sys_id>ef492fe3976a39506823f5c11153af8c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" sys_domain="global" view="Default view">7984c517971ef5106823f5c11153afae</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-09 13:20:43</sys_updated_on>
+            <sys_updated_on>2023-11-23 04:51:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>starbucks_drink_protein</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-09 13:20:43</sys_created_on>
-            <sys_id>5997d9d7975ef5106823f5c11153afe9</sys_id>
+            <sys_created_on>2023-11-23 04:51:34</sys_created_on>
+            <sys_id>e3492fe3976a39506823f5c11153af8d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" sys_domain="global" view="Default view">7984c517971ef5106823f5c11153afae</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-09 13:20:43</sys_updated_on>
+            <sys_updated_on>2023-11-23 04:51:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>.end_split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-09 13:20:43</sys_created_on>
-            <sys_id>5d97d9d7975ef5106823f5c11153afe9</sys_id>
+            <sys_created_on>2023-11-23 04:51:34</sys_created_on>
+            <sys_id>e7492fe3976a39506823f5c11153af8d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" sys_domain="global" view="Default view">7984c517971ef5106823f5c11153afae</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-09 13:20:43</sys_updated_on>
+            <sys_updated_on>2023-11-23 04:51:34</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>starbucks_drink_short_description</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-09 13:20:43</sys_created_on>
-            <sys_id>5197d9d7975ef5106823f5c11153afea</sys_id>
+            <sys_created_on>2023-11-23 04:51:34</sys_created_on>
+            <sys_id>eb492fe3976a39506823f5c11153af8d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1129234_starb_m_m2m_x_1129234_st_x_1129234_st_new" sys_domain="global" view="Default view">7984c517971ef5106823f5c11153afae</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-09 13:20:43</sys_updated_on>
+            <sys_updated_on>2023-11-23 04:51:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

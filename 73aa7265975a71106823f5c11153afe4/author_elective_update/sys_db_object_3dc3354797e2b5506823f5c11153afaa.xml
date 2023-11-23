@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <is_extendable>true</is_extendable>
+        <label>Demo table 1</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1129234_starb_m_demo_table_1</name>
+        <number_ref display_value="DT1">1c04358797e2b5506823f5c11153afab</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">096f9cb6d423211095d7c105f1bf43f1</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 07:02:05</sys_created_on>
+        <sys_id>3dc3354797e2b5506823f5c11153afaa</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Demo table 1</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_update_name>sys_db_object_3dc3354797e2b5506823f5c11153afaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 08:11:09</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_1129234_starb_m.demo_table_1_user" name="x_1129234_starb_m.demo_table_1_user">0c04f54797e2b5506823f5c11153afd0</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</application>
+        <file_path/>
+        <instance_id>c2d9444fdbc54d107527d7c8f49619cc</instance_id>
+        <instance_name>dev121859</instance_name>
+        <name>sys_db_object_3dc3354797e2b5506823f5c11153afaa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>true</create_access_controls><delete_access>true</delete_access><is_extendable>true</is_extendable><label>Demo table 1</label><live_feed_enabled>false</live_feed_enabled><name>x_1129234_starb_m_demo_table_1</name><number_ref display_value="DT1">1c04358797e2b5506823f5c11153afab</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">096f9cb6d423211095d7c105f1bf43f1</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-21 07:02:05</sys_created_on><sys_id>3dc3354797e2b5506823f5c11153afaa</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Demo table 1</sys_name><sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package><sys_policy/><sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope><sys_update_name>sys_db_object_3dc3354797e2b5506823f5c11153afaa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-21 08:11:09</sys_updated_on><update_access>true</update_access><user_role display_value="x_1129234_starb_m.demo_table_1_user" name="x_1129234_starb_m.demo_table_1_user">0c04f54797e2b5506823f5c11153afd0</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1463420456</payload_hash>
+        <record_name>Demo table 1</record_name>
+        <reverted_from/>
+        <source>b47b4b65979a71106823f5c11153af26</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 08:11:09</sys_created_on>
+        <sys_id>afc302c79726b5506823f5c11153af4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bf0eee3940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 08:11:09</sys_updated_on>
+        <type>Table</type>
+        <update_guid>a7c302c76326b55077f6ac0db546054a</update_guid>
+        <update_guid_history>a7c302c76326b55077f6ac0db546054a:-1463420456,cc9202871926b55076e20d77c50bbc1a:1900539387,98043587c1e2b5507f41418f54bad1b0:1596659166,5c04358720e2b550c19994d75dac30aa:1846386949</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-22 05:23:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0083a1a097cd45c09846068c70d77bc4</sys_id>
+        <sys_metadata>3dc3354797e2b5506823f5c11153afaa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo table 1</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
+        <sys_scope_delete display_value="">59445402b425491480e3057de7443a84</sys_scope_delete>
+        <sys_update_name>sys_db_object_3dc3354797e2b5506823f5c11153afaa</sys_update_name>
+        <sys_update_version display_value="sys_db_object_3dc3354797e2b5506823f5c11153afaa">afc302c79726b5506823f5c11153af4a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-22 05:23:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
