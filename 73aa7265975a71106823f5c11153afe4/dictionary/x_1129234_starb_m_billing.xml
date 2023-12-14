@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="13a86e7b972679506823f5c11153af5e" label="Billing" max_length="40" name="x_1129234_starb_m_billing" type="collection">
+        <element label="Date/Time" max_length="40" name="date_time" type="glide_date_time"/>
+        <element label="Drink Name" max_length="32" name="drink_name" reference="x_1129234_starb_m_starbucks_drink" type="reference"/>
+        <element label="Total" max_length="40" name="total" type="float"/>
+        <element label="Price" max_length="40" name="u_price" reference="x_1129234_starb_m_starbucks_drink" type="float"/>
+        <index name="index">
+            <element name="drink_name"/>
+        </index>
+    </element>
+</database>

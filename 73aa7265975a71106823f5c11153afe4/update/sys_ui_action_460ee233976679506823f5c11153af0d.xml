@@ -9,12 +9,12 @@
         <comments/>
         <condition/>
         <form_action>true</form_action>
-        <form_button>false</form_button>
+        <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
         <form_context_menu>false</form_context_menu>
-        <form_link>true</form_link>
+        <form_link>false</form_link>
         <form_menu_button_v2>false</form_menu_button_v2>
-        <form_style/>
+        <form_style>primary</form_style>
         <format_for_configurable_workspace>false</format_for_configurable_workspace>
         <hint/>
         <isolate_script>true</isolate_script>
@@ -27,47 +27,37 @@
         <list_save_with_form_button>false</list_save_with_form_button>
         <list_style/>
         <messages/>
-        <name>Order Now</name>
-        <onclick>showMsg()</onclick>
+        <name>plcaeOrder</name>
+        <onclick>getBill()</onclick>
         <order>100</order>
-        <script><![CDATA[function showMsg() {
-    //  alert("This is user defined function");
-	g_navigation.open('x_1129234_starb_m_billing');
+        <script><![CDATA[function getBill() {
 
-    alert("Name :" + g_form.getValue('name') + "\n Image:" + g_form.getValue('image') + "\nShort description :" + g_form.getValue('short_description') +
-        "\nCalories :" + g_form.getValue('calories') + "\ncarb :" + g_form.getValue('carb') + "\nFat :" + g_form.getValue('fat') + "\nFiber :" + g_form.getValue('fiber') + "\nProtien :" + g_form.getValue('protein'));
-
-    /* var gr = new GlideRecord('x_1129234_starb_m_starbucks_drink');
-        gr.addQuery('active', 'true');
-        gr.query();
-    	
-        while (gr.next()) {
-            gs.print(gr.short_description);
-            alert("RECORDS ARE :" + gr.short_description);
-        }*/
-
-}
-//confirm("company is xyz...");]]></script>
+    if (confirm("Confirm Your Order!") == true) {
+        alert("Your Order is Placed..!");
+    } else {
+        alert("Oopsss! You Order is canceled!");
+    }
+}]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
         <show_update>true</show_update>
         <sys_class_name>sys_ui_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-11-16 05:49:22</sys_created_on>
+        <sys_created_on>2023-11-23 19:13:19</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>a5c13bd197eefd106823f5c11153af22</sys_id>
-        <sys_mod_count>36</sys_mod_count>
-        <sys_name>Order Now</sys_name>
+        <sys_id>460ee233976679506823f5c11153af0d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>plcaeOrder</sys_name>
         <sys_overrides/>
         <sys_package display_value="Starbucks Management" source="x_1129234_starb_m">73aa7265975a71106823f5c11153afe4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Starbucks Management">73aa7265975a71106823f5c11153afe4</sys_scope>
-        <sys_update_name>sys_ui_action_a5c13bd197eefd106823f5c11153af22</sys_update_name>
+        <sys_update_name>sys_ui_action_460ee233976679506823f5c11153af0d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-23 18:57:53</sys_updated_on>
-        <table>x_1129234_starb_m_starbucks_drink</table>
+        <sys_updated_on>2023-11-23 19:22:30</sys_updated_on>
+        <table>x_1129234_starb_m_billing</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
     </sys_ui_action>
